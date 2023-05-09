@@ -1,2 +1,3 @@
 # Cryptocurrency-Application-with-React
--> Try the app here http://lnkiy.in/TryHere
+<a href="https://romantic-turing-f6ce49.netlify.app/">Click here</a>
+
